@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Gideon, a student Information Technology at NHL Stenden in Emmen.<br>This is my student account, so I will use this account for school projects. Don't forget to check out my personal account, @GADijkhuis!
+I'm Gideon, a student Information Technology at NHL Stenden in Emmen.<br>This is my student account, so I will use this account for school projects. Don't forget to check out my personal account, @[GADijkhuis](https://github.com/GADijkhuis)!
 
 
 ## 🌐 Socials:
